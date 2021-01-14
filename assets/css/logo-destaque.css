@@ -1,0 +1,67 @@
+.logos-destaq{
+
+    padding: 10px;
+    margin-top: 30px;
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+}
+
+.list-area{
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+#logo-lists{
+    padding: 10px;
+    list-style: none;
+    text-align: center;
+}
+
+#logo-lists li{
+    display: inline-block;
+    width: 250px;
+    height: 280px;
+    margin: 15px;
+    padding: 10px;
+}
+
+#logo-lists img{
+    width: 250px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.527);
+}
+
+.download-btn{
+    text-align: left;
+    margin: 0;
+}
+
+.download-btn a{
+    text-decoration: none;
+    color: rgb(11, 185, 98);
+    border:rgb(11, 185, 98) 1px solid ;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.download-btn a:hover{
+    background-color:rgb(11, 185, 98);
+    color: white;
+}
+
+.download-desc{
+    text-align: left;
+    padding-bottom: 5px;
+    padding-top: 10px;
+}
+
+.download-desc h4{
+    margin-bottom: 10px;
+}
+
+.price{
+    font-size: 22pt;
+    font-weight: lighter;
+    color: rgb(23, 156, 89);
+}
