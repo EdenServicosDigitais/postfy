@@ -1,0 +1,60 @@
+.banner-destaq img{
+    width: 400px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.527);
+}
+
+.banner-list{
+    padding: 20px;
+    text-align: center;
+    list-style: none;
+}
+
+.banner-list li{
+    text-align: left;
+
+    width: 400px;
+    padding: 10px;
+    display: inline-block;
+    margin: 5px;
+}
+
+.banner-destaq{
+    padding: 20px;
+}
+
+.banner-destaq h2{
+   margin: 60px;
+}
+
+.item-name{
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+
+.btn-area{
+    margin-top: 10px;
+    padding: 20px;
+    padding-left: 0;
+}
+
+#banner-price{
+    margin-top: 10px;
+    font-size: 20pt;
+    color: black;
+}
+
+.btn{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(11, 185, 98);;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.banner-destaq li{
+    
+    border: solid 1px rgba(0, 0, 0, 0.178);
+    padding: 10px;
+    border-radius: 5px;
+}

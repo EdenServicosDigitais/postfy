@@ -1,24 +1,32 @@
 .show-banner{
+   
     display: flex;
     align-items: center;
     align-content: center;
     justify-content: center;
-
     padding: 30px;
 }
 
 .title-area{
-    width: 80%;
-    padding: 10px;
+    width: 43%;
+    padding: 20px;
 }
 
 .title-area h1{
-    font-size: 35pt;
-    margin: 10px;
-    text-align: center;
+    font-size: 50pt;
+      text-align: center;
 }
 
 .title-area p{
+    font-size: 15pt;
     margin: 20px;
+    text-align: center;
+}
+
+.img-area img{
+    width: 100px;
+}
+
+.img-area{
     text-align: center;
 }
